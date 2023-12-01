@@ -10,7 +10,6 @@ The project was taken as a basis from the LinkedIn Learning platform and was red
 It demonstrates how to use Spring MVC, Spring Data JPA, Spring Security, and Spring HATEOAS, and other technologies to build a web service.
 All application data is stored on the local MySQL server.
 
-
 ### Main components
 * The three-tier architecture, each layer of which performs its own distinct functions.
 * The error/exception handling mechanism for catching and handling errors or exceptions which also provides useful feedback to the users and logs the errors for debugging.
